@@ -22,7 +22,7 @@ Follow these instructions to submit your challenge.
 #### 3. Show us your skills
 
 ## Challenge
-As a pioneering MVNO startup utilizing satellite technology, you're committed to bringing unparalleled connectivity to every corner of the globe. To showcase your network's reach and capabilities, you decide to create an interactive Flutter app that automatically conducts a network speed test whenever the user opens the app. The app should log each test's results along with the user's geographical location, and then display the average download and upload speeds for the user's various locations.
+As a pioneering MVNO startup  utilizing satellite technology 🧑‍🚀, you're committed to bringing unparalleled connectivity to every corner of the globe. To showcase your network's reach and capabilities, you decide to create an interactive Flutter app that automatically conducts a network speed test whenever the user opens the app. The app should log each test's results along with the user's geographical location, and then display the average download and upload speeds 🛰️ for the user's various locations.
 
 ## Requirements
 Your application must include the following functionalities:
