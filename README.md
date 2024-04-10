@@ -27,10 +27,10 @@ As a pioneering MVNO startup utilizing satellite technology, you're committed to
 ## Requirements
 Your application must include the following functionalities:
 * Automatic Speed Test on Startup: Each time the app is opened, it should automatically begin a speed test to measure the user's current download and upload speeds.
-* Location Tracking: Optionally, with the user's permission, track the location of each speed test to group results by location.
+* Location Tracking [Optional]: Optionally, with the user's permission, track the location of each speed test to group results by location.
 * Data Storage: Store the results of each speed test, including download speed, upload speed, and location.
 * Average Speeds Display: Provide a user interface that displays the average download and upload speeds, organizing the data based on location. If location tracking is not enabled, display overall averages.
-* Speed Test History: Allow users to view the history of their speed tests, showing individual test results with timestamps and locations (if available).
+* Speed Test History [Optional]: Allow users to view the history of their speed tests, showing individual test results with timestamps and locations (if available).
 
 Features for an Enhanced User Experience:
 * Speed Test Visualization: During each test, visually display the test's progress and results in real-time using graphs or progress bars.
